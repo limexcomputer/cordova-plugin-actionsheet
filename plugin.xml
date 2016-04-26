@@ -59,12 +59,12 @@
     <source-file src="src/wp8/ActionSheet.cs" />
   </platform>
 
-  <!--windows-->
+  <!--windows
   
   <platform name="windows">
     <js-module src="src/windows/ActionSheetProxy.js" name="ActionSheetProxy">
       <merges target="" />
     </js-module>
   </platform>
-
+-->
 </plugin>
